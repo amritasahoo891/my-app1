@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  </dependencies>
+  
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>maven-snapshots</id>
